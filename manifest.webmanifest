@@ -1,0 +1,17 @@
+{
+  "name": "Elevor360D Colour Palette Generator Pro",
+  "short_name": "Palette Pro",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c1829",
+  "theme_color": "#102238",
+  "icons": [
+    {
+      "src": "images/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
