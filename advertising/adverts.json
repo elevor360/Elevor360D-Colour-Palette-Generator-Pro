@@ -1,0 +1,10 @@
+{
+  "adverts": [
+    {
+      "title": "Explore more Elevor360D apps",
+      "image": "sample-ad.svg",
+      "url": "",
+      "enabled": true
+    }
+  ]
+}
